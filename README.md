@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Kadiyan</h1>
 <h3 align="center">A passionate Data Engineer</h3>
-<img align = "right" alt="coding" width="400" scr= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCoding-Meet&psig=AOvVaw3EMdLma1nRgDyPRdQAsV5a&ust=1718182654354000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjdpOeX04YDFQAAAAAdAAAAABAJ">
+<!-- <img align = "right" alt="coding" width="400" scr= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCoding-Meet&psig=AOvVaw3EMdLma1nRgDyPRdQAsV5a&ust=1718182654354000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjdpOeX04YDFQAAAAAdAAAAABAJ"> -->
 
 - 💬 Ask me about **SQL and DBMS,**
 
